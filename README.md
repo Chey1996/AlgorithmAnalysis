@@ -1,2 +1,2 @@
-# Platform-Game
-Teensy platform game.
+# Algorithm Analysis
+Speed and complexity analysis of median searching algorithm.
